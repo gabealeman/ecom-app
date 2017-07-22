@@ -55,3 +55,9 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
+
+gem 'sprockets-rails', :require => 'sprockets/railtie'
+
+gem 'rails-assets-tether'
+
+gem 'jquery-rails'
